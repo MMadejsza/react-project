@@ -13,6 +13,7 @@ import './CoreConcept.css';
 // 	);
 // }
 export default function CoreConcept({image: img, title, description: desc}) {
+	console.log('concept rendered');
 	return (
 		<li>
 			<img
