@@ -31,6 +31,7 @@ function Examples() {
 			title='Examples'
 			id='examples'>
 			<Tabs
+				// containerType='menu'
 				buttons={
 					<>
 						{/* {selectedTopic === 'components'} returns true/false */}
